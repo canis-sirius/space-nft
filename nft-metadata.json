@@ -1,0 +1,12 @@
+{
+  "attributes" : [ {
+    "trait_type" : "Galaxy",
+    "value" : "Canis Major"
+  }, {
+    "trait_type" : "Planet",
+    "value" : "Sirius"
+  } ],
+  "description" : "The world's brightest star",
+  "image" : "https://gateway.pinata.cloud/ipfs/QmZ78PTkyEc12iU8xKLorjehLakKH3hqr4LLNLUSGQhMvC",
+  "name" : "Sirius"
+}
